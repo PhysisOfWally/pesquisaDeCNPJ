@@ -1,0 +1,13 @@
+.custom-card-bg {
+    background-color: #ffffff;
+}
+
+.custom-card-body-bg {
+    background-color: #ffffff; /* Pode alterar para a cor desejada */
+}
+
+/* Opção 2: Usar !important */
+.custom-btn-color {
+    background-color: #271ae4b0 !important;
+    border-color: #271ae4b0 !important;
+}
